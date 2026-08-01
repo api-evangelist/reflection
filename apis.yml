@@ -1,23 +1,72 @@
 aid: reflection
-name: Reflection
-description: Reflection is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/reflection.png
+name: Reflection AI
+description: >-
+  Reflection AI is an artificial intelligence research lab building frontier open
+  intelligence — open models that let anyone control their own intelligence and help
+  shape the future of AI. Founded by former Google DeepMind researchers and backed by
+  Lightspeed Venture Partners, the company frames its work as a path to superintelligence,
+  sharing research and perspectives through its blog rather than a public developer product.
+  As of this profile Reflection AI publishes no public API, SDK, developer portal, or MCP
+  server; this entry captures the company's verified identity and public web properties for
+  the API Evangelist network and will be re-enriched if a developer surface appears.
 url: https://raw.githubusercontent.com/api-evangelist/reflection/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - lightspeed-venture-partners
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profile
+x-tier-reason: no-public-api-surface
+x-website: https://reflection.ai
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- AI Research
+- Foundation Models
+- Open Models
+- Superintelligence
+- Machine Learning
 apis: []
+common:
+- type: Website
+  url: https://reflection.ai
+  name: Reflection AI website
+- type: Blog
+  url: https://reflection.ai/blog
+  name: Reflection AI blog
+- type: TermsOfService
+  url: https://reflection.ai/legal/terms-of-service
+  name: Terms of Service
+- type: PrivacyPolicy
+  url: https://reflection.ai/legal/privacy-policy
+  name: Privacy Policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/reflectionai/
+  name: Reflection AI on LinkedIn
+- type: Twitter
+  url: https://x.com/reflection_ai
+  name: Reflection AI on X
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
