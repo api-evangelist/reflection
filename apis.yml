@@ -29,7 +29,7 @@ x-backed-by:
 x-tier: profile
 x-tier-reason: no-public-api-surface
 x-website: https://reflection.ai
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
