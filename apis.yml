@@ -50,7 +50,7 @@ tags:
 - Foundation Models
 - Open Models
 - Superintelligence
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Artificial Intelligence
@@ -59,6 +59,7 @@ tags_raw:
 - Open Models
 - Superintelligence
 - Machine Learning
+- Machine-Learning
 apis: []
 common:
 - type: Website
